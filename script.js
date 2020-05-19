@@ -1,6 +1,6 @@
 const dice = document.getElementById("dice");
 
-const num = ['<img src="https://www.speedymath.com/images/dice/4-border.gif">',
+const num = ['<img src="https://www.speedymath.com/images/dice/1-border.gif">',
          '<img src="https://www.speedymath.com/images/dice/2-border.gif">',
          '<img src="https://www.speedymath.com/images/dice/3-border.gif">',
          '<img src="https://www.speedymath.com/images/dice/4-border.gif">',

@@ -16,5 +16,5 @@ body{
     transition: transform 1s;
 }
 #dice:active{
-    transform: rotate(360deg);
+    transform: rotate(720deg);
 }
